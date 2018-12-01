@@ -23,7 +23,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>El And Scotty</title>
+    <title>Photobooth</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
